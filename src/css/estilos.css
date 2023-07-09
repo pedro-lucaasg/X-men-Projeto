@@ -49,8 +49,13 @@ body::before{
     font-size: 20px;
     letter-spacing: 4px;
     text-transform: uppercase;
+    border-bottom: 2px solid #47f4ff;
     width: 100%;
     text-align: center;
+}
+
+.lista-de-personagens .personagem{
+    border-bottom: 4px solid #47f4ff;
 }
 
 .lista-de-personagens .personagem img{
